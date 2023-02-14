@@ -1,0 +1,29 @@
+{
+  "name": "random-str-royi-msge",
+  "version": "1.0.0",
+  "description": "this is a pack generate a motivate phrase ramdom in console",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/managerrojo/random-str-royi-msge.git"
+  },
+  "keywords": [
+    "ramdom",
+    "consolem",
+    "generate"
+  ],
+  "author": "Roger Caceres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/managerrojo/random-str-royi-msge/issues"
+  },
+  "homepage": "https://github.com/managerrojo/random-str-royi-msge#readme",
+  "bin": {
+    "random-str-royi-msge": "./bing/global.js"
+  },
+  "preferGlobal": true
+}
